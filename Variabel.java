@@ -11,3 +11,4 @@ public class uts {
         System.out.println("Saya Lahir Di Tahun :"+ Tahun);
     }
 }
+ 
