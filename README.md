@@ -1,2 +1,0 @@
-# utsalpro
-UTS Ilmu komputer
